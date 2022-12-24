@@ -16,6 +16,7 @@ dependencies {
     implementation("org.apache.poi:poi:5.2.2")
     implementation("org.apache.poi:poi-ooxml:5.2.2")
     implementation("org.apache.logging.log4j:log4j-core:2.19.0")
+    implementation("au.com.bytecode:opencsv:2.4")
     testImplementation(kotlin("test"))
 }
 
